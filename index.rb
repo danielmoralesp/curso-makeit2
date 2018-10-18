@@ -1,1 +1,1 @@
-"Hola mundo desde master"
+"Hola mundo desde rama2"
